@@ -1,0 +1,3 @@
+int32 duration #waktu durasi robot bb8 tetap bergerak dalam lingkaran
+---
+bool success #kondisi sukses
